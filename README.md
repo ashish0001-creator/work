@@ -29,9 +29,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/ashish0001-creator/work/tree/master/0127-word-ladder) |
 | [1143-longest-common-subsequence](https://github.com/ashish0001-creator/work/tree/master/1143-longest-common-subsequence) |
 ## Longest Common Subsequence
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/ashish0001-creator/work/tree/master/1143-longest-common-subsequence) |
+## Hash Table
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/ashish0001-creator/work/tree/master/0127-word-ladder) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/ashish0001-creator/work/tree/master/0127-word-ladder) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/ashish0001-creator/work/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
