@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ashish0001-creator/work/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0435-non-overlapping-intervals](https://github.com/ashish0001-creator/work/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ashish0001-creator/work/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1046-last-stone-weight](https://github.com/ashish0001-creator/work/tree/master/1046-last-stone-weight) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ashish0001-creator/work/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ashish0001-creator/work/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0435-non-overlapping-intervals](https://github.com/ashish0001-creator/work/tree/master/0435-non-overlapping-intervals) |
 | [1143-longest-common-subsequence](https://github.com/ashish0001-creator/work/tree/master/1143-longest-common-subsequence) |
 ## Greedy
