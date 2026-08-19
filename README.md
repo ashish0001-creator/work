@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ashish0001-creator/work/tree/master/0070-climbing-stairs) |
 | [0435-non-overlapping-intervals](https://github.com/ashish0001-creator/work/tree/master/0435-non-overlapping-intervals) |
 | [1143-longest-common-subsequence](https://github.com/ashish0001-creator/work/tree/master/1143-longest-common-subsequence) |
 ## Greedy
@@ -47,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/ashish0001-creator/work/tree/master/0127-word-ladder) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ashish0001-creator/work/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ashish0001-creator/work/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
